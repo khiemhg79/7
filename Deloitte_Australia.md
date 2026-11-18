@@ -1,6 +1,6 @@
 # HOẠT ĐỘNG NHÓM — ZONE F, CASE 3: DELOITTE AUSTRALIA
 
-**Thông tin sv**:
+**Thành viên nhóm**:
 1 - Nguyễn Xuân Hùng -2A202603599
 2 - Hồ Sỹ Tùng - 2A202603650
 3 - Mai Huy Hoạt - 2A202603656
@@ -8,7 +8,7 @@
 **Chủ đề:** AI soạn và tóm tắt cho nghề tri thức — Khi nào bản nháp AI đủ tin để dùng hằng ngày?  
 **Case:** Deloitte Australia — báo cáo tư vấn cho Department of Employment and Workplace Relations (DEWR)  
 **Thời điểm đặt quyết định giả định:** 22/08/2025, khi các trích dẫn trong báo cáo bị nghi ngờ, **trước khi biết các biện pháp xử lý và kết cục sau đó**.  
-**Thành viên nhóm:** ........................................................
+
 
 ---
 
